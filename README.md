@@ -1,5 +1,4 @@
 # CSC330
-<br \>
 Advanced Data Structures
-<br \>
+<br />
 Java
